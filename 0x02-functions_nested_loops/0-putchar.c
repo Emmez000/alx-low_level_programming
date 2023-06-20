@@ -1,13 +1,12 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 *
+	 * is written by mbah
 	 * Return: 0
 	 */
 
 
 	int main(void)
-	/*This function shall return no value*/
 	{
 	_putchar('_');
 	_putchar('p');
